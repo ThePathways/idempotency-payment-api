@@ -1,4 +1,4 @@
-# Idempotency Payment API
+# idempotency-payment-api
 
 Spring Boot API that demonstrates idempotent payment creation using an `Idempotency-Key` header.
 
