@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.thepathways</groupId>
-	<artifactId>IdempotencyPaymentAPI</artifactId>
+	<artifactId>idempotency-payment-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
